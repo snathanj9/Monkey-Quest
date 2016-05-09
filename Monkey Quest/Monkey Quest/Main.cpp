@@ -1,4 +1,3 @@
-#include "will.h"
 #include "allegro5\allegro.h"
 #include "allegro5\allegro_acodec.h"
 #include "allegro5\allegro_audio.h"
@@ -18,6 +17,7 @@ enum MYBUTTONS
 	DEFAULT,
 	BUTTON_ONE,
 	BUTTON_TWO
+
 
 };
 
